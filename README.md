@@ -7,7 +7,7 @@
 ### 👯 I’m looking to collaborate on Projects related to Web development
 ### 🤔 I’m looking for help with React
 ### 💬 Ask me about FrontEnd Web dev
-### 📫 How to reach me: via mail @ anshikabansal012@gmail.com via Linkedin @ https://www.linkedin.com/in/vishal-sony-82696b1bb/
+### 📫 How to reach me: via mail @ anshikabansal012@gmail.com via Linkedin @ https://www.linkedin.com/in/anshika-bansal-ab78621bb/
 ### 😄 Pronouns: Frontend Developer/Backend Developer or Future Full Stack Developer
 ### ⚡ Fun fact: I like baking videos 😄
 
